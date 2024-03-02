@@ -1,2 +1,10 @@
 # Proyek-Analisis-Data
-Proyek Analisis Data
+## Setup environment
+```
+pip install numpy pandas scipy matplotlib seaborn streamlit
+```
+
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
